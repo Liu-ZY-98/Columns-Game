@@ -1,5 +1,4 @@
 # Zhiyuan Liu
-# 25105882
 
 class InvalidMoveError(Exception):
     '''Raised whenever an invalid move is made'''

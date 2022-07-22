@@ -1,5 +1,4 @@
 # Zhiyuan Liu
-# 25105882
 
 import columns_mechanics
 

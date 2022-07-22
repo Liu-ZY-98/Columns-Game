@@ -1,6 +1,3 @@
-#Zhiyuan Liu
-#25105882
-
 import pygame
 import columns_mechanics
 import random
